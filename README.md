@@ -14,7 +14,8 @@ Transformers + LLM
 * installation
     ```
     $ pip install torch
-    $ 
+    $ pip install transformers
+    $ pip install accelerate
     ```
 
 ---
